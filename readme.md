@@ -15,4 +15,7 @@
 - 明滅の間隔を液晶パネルに表示
 - スイッチと液晶パネルのオンオフが同期
 
+動作はこんな感じ（クリックすると動画に飛びます）
+[![](http://img.youtube.com/vi/pSJJwi-PmCY/0.jpg)](https://www.youtube.com/watch?v=pSJJwi-PmCY)
+
 
