@@ -1,4 +1,4 @@
-BeagleBone Black回路実験 サンプルスクリプト
+# BeagleBone Black回路実験 サンプルスクリプト
 
 [「BeagleBoneBlack」で制御するロボットの作り方](http://www.amazon.co.jp/dp/4777518078)を参考にしたサンプルスクリプトです。
 
